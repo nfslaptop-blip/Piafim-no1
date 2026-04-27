@@ -1,0 +1,20 @@
+<section style="text-align:center;padding:40px;">
+  <h1 style="color:#e91e63;">Piafim Cosmetics</h1>
+  <p>Glow Naturally with Piafim</p>
+</section>
+
+<div style="display:flex;gap:20px;justify-content:center;">
+  <div style="border:1px solid #ddd;padding:15px;">
+    <img src="https://via.placeholder.com/150"/>
+    <h3>Face Cream</h3>
+    <p>৳500</p>
+    <button>Buy Now</button>
+  </div>
+
+  <div style="border:1px solid #ddd;padding:15px;">
+    <img src="https://via.placeholder.com/150"/>
+    <h3>Lipstick</h3>
+    <p>৳300</p>
+    <button>Buy Now</button>
+  </div>
+</div>
